@@ -1,0 +1,13 @@
+/*definition de la taille du body*/
+body {
+   min-height:4096px;
+}
+/*definition de la taille du footer*/
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 10px;
+    background-color: #ccc;
+}
